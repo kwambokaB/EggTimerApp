@@ -1,7 +1,7 @@
 EggTimer - Final Code 
 ============================================================================
 
-Solution code for Advanced Android with Kotlin Codelab 
+Code for Advanced Android with Kotlin Codelab 
 
 Introduction
 ------------
